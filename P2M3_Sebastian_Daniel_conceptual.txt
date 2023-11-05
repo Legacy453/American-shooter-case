@@ -1,0 +1,11 @@
+Jelaskan apa yang Anda ketahui dari Airflow menggunakan pemahaman dan bahasa Anda sendiri !
+
+Jelaskan apa yang Anda ketahui dari Great Expectations menggunakan pemahaman dan bahasa Anda sendiri !
+
+Jelaskan apa yang Anda ketahui dari Batch Processing menggunakan pemahaman dan bahasa Anda sendiri (Definisi, Contoh Kasus Penggunaan, Tools, dll) !
+
+- airflow merupakan platform otomatisasi fungsi, hampir sama dengan pipeline. alur kerja diatur oleh user melalui kode DAG dan nantinya akan dieksekusi sistem sesuai jadwal.
+
+- Great Expectation merupakan platform validasi data sesuai dengan expektasi yang diberikan oleh user.
+
+- batch processing adalah pemrosesan data yang diambil, diolah dan disimpan dalam batch besar dalam waktu yang ditentukan, prosesnya dilakukan secara bersamaan, membuat proses ini dianggap effisien.
